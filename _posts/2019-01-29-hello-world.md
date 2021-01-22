@@ -1,15 +1,17 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Welcome to My Personal Website!"
 published: true
 ---
 
-**Hello world**, this is my first Jekyll blog post for myself.
+**Hello world**, this is my first blog post for myself.
+
+## Test
 
 I hope you like it!!!!!
 
-# Highlighter
-## Ruby
-```ruby
+<!-- # Highlighter
+## Ruby -->
+<!-- ```ruby
 def show
   puts "Outputting a very lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong line"
   @widget = Widget(params[:id])
@@ -72,4 +74,4 @@ body {
 one: Mark McGwire
 two: Sammy Sosa
 three: Ken Griffey
-```
+``` -->
