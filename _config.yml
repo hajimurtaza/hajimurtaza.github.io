@@ -1,8 +1,6 @@
 layout: sidebar
 style: dark
 
-markdown: rdiscount
-
 # github: [metadata]
 
 plugins:
